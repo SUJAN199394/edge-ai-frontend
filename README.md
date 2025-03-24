@@ -32,8 +32,7 @@ Installation & Setup
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/edge-ai-frontend.git
-cd edge-ai-frontend
+git clone https://github.com/SUJAN199394/edge-ai-frontend
 
 2️⃣ Create a Virtual Environment (Recommended)
 
